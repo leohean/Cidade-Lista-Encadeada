@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1598725557 source:c:\users\leonardo\desktop\project\cidade\main.cpp
+	"cidade.h"
+
+1598726145 c:\users\leonardo\desktop\project\cidade\cidade.h
+	<iostream>
+	<locale.h>
+	<string.h>
+	<math.h>
+
+1598726043 source:c:\users\leonardo\desktop\project\cidade\cidade.cpp
+	"cidade.h"
+
